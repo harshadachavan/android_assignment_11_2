@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewAutocomplete</string>
+    <string name="COUNTRY_LABEL">Search Product</string>
+</resources>
